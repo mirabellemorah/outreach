@@ -1,0 +1,9 @@
+{
+  "start_date": null,
+  "notification_times": {
+    "morning": "09:00",
+    "midday": "12:00",
+    "evening": "19:00"
+  },
+  "notification_method": "auto"
+}
